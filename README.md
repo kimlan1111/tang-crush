@@ -18,8 +18,8 @@ const CONFIG = {
     question:'nói cho tớ biết lí do cậu thích tớ đi:vvv',
     btnReply: 'Gửi cho tớ <3',
     reply: 'tại vì cậu rất đánggg iuuuu :33333333',
-    mess: 'tớ biết mà 🥰. Yêu cậu <33333',
-    messDesc: 'tối nay nhớ inbox cho tôi đấy nhé:<',
+    mess: 'tớ biết mà^^. Yêu cậu <33333',
+    messDesc: 'mong có thể gặp cậu sớm chút:<',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
